@@ -1,0 +1,1804 @@
+2024-06-19 21:21:29,942 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:21:29,945 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:21:29,945 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:21:29,947 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:21:29,949 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:21:29,952 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:21:29,955 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:21:30,164 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:21:30,164 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:21:30,164 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:21:30,164 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:21:30,181 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:21:30,181 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:21:30,183 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:21:30,184 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:21:30,185 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:21:30,186 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:21:30,188 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:21:30,193 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:21:30,195 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:21:30,197 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:21:30,199 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:21:30,201 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:21:30,201 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:21:30,201 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:21:30,202 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:21:30,205 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:21:30,205 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:21:30,207 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:21:30,214 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:21:30,214 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:21:30,214 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:21:30,214 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:21:30,214 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:21:30,231 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:21:30,233 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:21:30,233 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:21:30,233 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:21:30,235 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:21:30,236 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:21:30,238 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:21:30,240 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:21:30,241 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:21:30,243 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:21:30,243 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:21:30,248 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:21:30,248 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:21:30,248 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:21:30,248 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:21:41,351 - uvicorn.access - INFO - 127.0.0.1:5371 - "OPTIONS / HTTP/1.1" 200
+2024-06-19 21:21:41,376 - uvicorn.access - INFO - 127.0.0.1:5371 - "POST / HTTP/1.1" 200
+2024-06-19 21:21:41,395 - uvicorn.access - INFO - 127.0.0.1:5371 - "GET / HTTP/1.1" 200
+2024-06-19 21:21:52,315 - uvicorn.access - INFO - 127.0.0.1:5372 - "POST / HTTP/1.1" 200
+2024-06-19 21:21:52,321 - uvicorn.access - INFO - 127.0.0.1:5372 - "GET / HTTP/1.1" 200
+2024-06-19 21:22:12,866 - uvicorn.access - INFO - 127.0.0.1:5381 - "POST / HTTP/1.1" 200
+2024-06-19 21:22:12,872 - uvicorn.access - INFO - 127.0.0.1:5381 - "GET / HTTP/1.1" 200
+2024-06-19 21:22:19,796 - uvicorn.access - INFO - 127.0.0.1:5382 - "POST / HTTP/1.1" 200
+2024-06-19 21:22:19,801 - uvicorn.access - INFO - 127.0.0.1:5382 - "GET / HTTP/1.1" 200
+2024-06-19 21:23:13,464 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:23:13,465 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:23:13,465 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:23:13,466 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:23:13,467 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:23:13,468 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:23:13,469 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:23:13,613 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:23:13,613 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:23:13,614 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:23:13,615 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:23:13,616 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:23:13,616 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:23:13,617 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:23:13,618 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:23:13,618 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:23:13,618 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:23:13,619 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:23:13,621 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:23:13,622 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:23:13,623 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:23:13,624 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:23:13,625 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:23:13,625 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:23:13,625 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:23:13,626 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:23:13,627 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:23:13,627 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:23:13,628 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:23:13,632 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:23:13,633 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:23:13,635 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:23:13,635 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:23:13,635 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:23:13,643 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:23:13,643 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:23:13,643 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:23:13,643 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:23:13,644 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:23:13,645 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:23:13,645 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:23:13,646 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:23:13,647 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:23:13,647 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:23:13,647 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:23:13,649 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:23:13,650 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:23:13,652 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:23:13,652 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:23:16,031 - uvicorn.access - INFO - 127.0.0.1:5424 - "POST / HTTP/1.1" 200
+2024-06-19 21:23:16,040 - uvicorn.access - INFO - 127.0.0.1:5424 - "GET / HTTP/1.1" 200
+2024-06-19 21:23:22,388 - uvicorn.access - INFO - 127.0.0.1:5427 - "POST / HTTP/1.1" 200
+2024-06-19 21:23:22,394 - uvicorn.access - INFO - 127.0.0.1:5427 - "GET / HTTP/1.1" 200
+2024-06-19 21:25:01,260 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:25:01,261 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:25:01,261 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:25:01,262 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:25:01,263 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:25:01,264 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:25:01,265 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:25:01,395 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:25:01,395 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:25:01,396 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:25:01,397 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:25:01,398 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:25:01,398 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:25:01,399 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:25:01,399 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:25:01,399 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:25:01,400 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:25:01,401 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:25:01,402 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:25:01,403 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:25:01,404 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:25:01,405 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:25:01,405 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:25:01,406 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:25:01,406 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:25:01,406 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:25:01,408 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:25:01,408 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:25:01,408 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:25:01,413 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:25:01,414 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:25:01,415 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:25:01,415 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:25:01,416 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:25:01,422 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:25:01,422 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:25:01,422 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:25:01,423 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:25:01,423 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:25:01,424 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:25:01,424 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:25:01,425 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:25:01,426 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:25:01,426 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:25:01,426 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:25:01,427 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:25:01,428 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:25:01,429 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:25:01,430 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:25:05,338 - uvicorn.access - INFO - 127.0.0.1:5505 - "POST / HTTP/1.1" 200
+2024-06-19 21:25:05,346 - uvicorn.access - INFO - 127.0.0.1:5505 - "GET / HTTP/1.1" 200
+2024-06-19 21:25:29,482 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:25:29,484 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:25:29,484 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:25:29,484 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:25:29,485 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:25:29,486 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:25:29,487 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:25:29,672 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:25:29,673 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:25:29,674 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:25:29,674 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:25:29,676 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:25:29,676 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:25:29,676 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:25:29,677 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:25:29,677 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:25:29,678 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:25:29,678 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:25:29,681 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:25:29,683 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:25:29,685 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:25:29,687 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:25:29,687 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:25:29,687 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:25:29,688 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:25:29,688 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:25:29,689 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:25:29,690 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:25:29,690 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:25:29,695 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:25:29,695 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:25:29,697 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:25:29,699 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:25:29,699 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:25:29,707 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:25:29,708 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:25:29,708 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:25:29,708 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:25:29,709 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:25:29,709 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:25:29,710 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:25:29,711 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:25:29,711 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:25:29,712 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:25:29,712 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:25:29,715 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:25:29,716 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:25:29,719 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:25:29,720 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:25:30,860 - uvicorn.access - INFO - 127.0.0.1:5515 - "POST / HTTP/1.1" 200
+2024-06-19 21:25:30,867 - uvicorn.access - INFO - 127.0.0.1:5515 - "GET / HTTP/1.1" 200
+2024-06-19 21:29:13,028 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:29:13,038 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:29:13,038 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:29:13,044 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:29:13,050 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:29:13,063 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:29:13,070 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:29:13,246 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:29:13,255 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:29:13,261 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:29:13,268 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:29:13,280 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:29:13,281 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:29:13,287 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:29:13,293 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:29:13,294 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:29:13,299 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:29:13,306 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:29:13,332 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:29:13,340 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:29:13,348 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:29:13,354 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:29:13,364 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:29:13,364 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:29:13,364 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:29:13,371 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:29:13,378 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:29:13,378 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:29:13,383 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:29:13,443 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:29:13,449 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:29:13,460 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:29:13,467 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:29:13,467 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:29:13,520 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:29:13,526 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:29:13,526 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:29:13,526 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:29:13,533 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:29:13,539 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:29:13,546 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:29:13,553 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:29:13,560 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:29:13,567 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:29:13,567 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:29:13,576 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:29:13,582 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:29:13,592 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:29:13,601 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:29:18,232 - uvicorn.access - INFO - 127.0.0.1:5685 - "POST / HTTP/1.1" 200
+2024-06-19 21:29:18,245 - uvicorn.access - INFO - 127.0.0.1:5685 - "GET / HTTP/1.1" 200
+2024-06-19 21:29:23,829 - uvicorn.access - INFO - 127.0.0.1:5687 - "POST / HTTP/1.1" 200
+2024-06-19 21:29:23,838 - uvicorn.access - INFO - 127.0.0.1:5687 - "GET / HTTP/1.1" 200
+2024-06-19 21:29:37,396 - uvicorn.access - INFO - 127.0.0.1:5691 - "POST / HTTP/1.1" 200
+2024-06-19 21:29:37,407 - uvicorn.access - INFO - 127.0.0.1:5691 - "GET / HTTP/1.1" 200
+2024-06-19 21:30:47,251 - uvicorn.access - INFO - 127.0.0.1:5710 - "POST / HTTP/1.1" 200
+2024-06-19 21:30:47,263 - uvicorn.access - INFO - 127.0.0.1:5710 - "GET / HTTP/1.1" 200
+2024-06-19 21:32:51,603 - uvicorn.access - INFO - 127.0.0.1:5728 - "OPTIONS / HTTP/1.1" 200
+2024-06-19 21:32:51,645 - uvicorn.access - INFO - 127.0.0.1:5728 - "POST / HTTP/1.1" 200
+2024-06-19 21:32:51,656 - uvicorn.access - INFO - 127.0.0.1:5728 - "GET / HTTP/1.1" 200
+2024-06-19 21:33:24,927 - uvicorn.access - INFO - 127.0.0.1:5729 - "POST / HTTP/1.1" 200
+2024-06-19 21:33:24,935 - uvicorn.access - INFO - 127.0.0.1:5729 - "GET / HTTP/1.1" 200
+2024-06-19 21:35:10,848 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:35:10,852 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:35:10,852 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:35:10,854 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:35:10,856 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:35:10,860 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:35:10,862 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:35:11,136 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:35:11,139 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:35:11,141 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:35:11,143 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:35:11,147 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:35:11,147 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:35:11,150 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:35:11,152 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:35:11,152 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:35:11,155 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:35:11,157 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:35:11,164 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:35:11,166 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:35:11,168 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:35:11,171 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:35:11,174 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:35:11,174 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:35:11,174 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:35:11,176 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:35:11,180 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:35:11,181 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:35:11,182 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:35:11,198 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:35:11,200 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:35:11,203 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:35:11,206 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:35:11,206 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:35:11,232 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:35:11,234 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:35:11,235 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:35:11,235 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:35:11,237 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:35:11,241 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:35:11,244 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:35:11,246 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:35:11,247 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:35:11,249 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:35:11,249 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:35:11,253 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:35:11,256 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:35:11,261 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:35:11,264 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:35:17,385 - uvicorn.access - INFO - 127.0.0.1:5767 - "POST / HTTP/1.1" 200
+2024-06-19 21:35:17,397 - uvicorn.access - INFO - 127.0.0.1:5767 - "GET / HTTP/1.1" 200
+2024-06-19 21:36:25,123 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:36:25,126 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:36:25,126 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:36:25,128 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:36:25,131 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:36:25,135 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:36:25,137 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:36:25,408 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:36:25,410 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:36:25,412 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:36:25,416 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:36:25,420 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:36:25,420 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:36:25,422 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:36:25,424 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:36:25,424 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:36:25,426 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:36:25,428 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:36:25,435 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:36:25,437 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:36:25,440 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:36:25,442 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:36:25,444 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:36:25,444 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:36:25,444 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:36:25,446 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:36:25,451 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:36:25,451 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:36:25,454 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:36:25,472 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:36:25,474 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:36:25,477 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:36:25,479 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:36:25,480 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:36:25,516 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:36:25,519 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:36:25,519 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:36:25,519 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:36:25,522 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:36:25,523 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:36:25,525 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:36:25,527 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:36:25,529 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:36:25,532 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:36:25,532 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:36:25,536 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:36:25,538 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:36:25,544 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:36:25,548 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:36:29,544 - uvicorn.access - INFO - 127.0.0.1:5784 - "POST / HTTP/1.1" 200
+2024-06-19 21:36:29,555 - uvicorn.access - INFO - 127.0.0.1:5784 - "GET / HTTP/1.1" 200
+2024-06-19 21:36:37,854 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:36:37,856 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:36:37,857 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:36:37,858 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:36:37,859 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:36:37,860 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:36:37,867 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:36:37,995 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:36:37,995 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:36:37,996 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:36:37,997 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:36:37,998 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:36:37,998 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:36:37,999 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:36:38,000 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:36:38,000 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:36:38,000 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:36:38,001 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:36:38,003 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:36:38,004 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:36:38,005 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:36:38,006 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:36:38,006 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:36:38,007 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:36:38,007 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:36:38,007 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:36:38,008 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:36:38,009 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:36:38,009 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:36:38,014 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:36:38,015 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:36:38,016 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:36:38,016 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:36:38,017 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:36:38,023 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:36:38,024 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:36:38,024 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:36:38,024 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:36:38,024 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:36:38,025 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:36:38,026 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:36:38,027 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:36:38,028 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:36:38,029 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:36:38,029 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:36:38,032 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:36:38,034 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:36:38,035 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:36:38,036 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:36:42,936 - uvicorn.access - INFO - 127.0.0.1:5790 - "POST / HTTP/1.1" 200
+2024-06-19 21:36:42,944 - uvicorn.access - INFO - 127.0.0.1:5790 - "GET / HTTP/1.1" 200
+2024-06-19 21:37:53,941 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:37:53,945 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:37:53,945 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:37:53,947 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:37:53,949 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:37:53,952 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:37:53,956 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:37:54,264 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:37:54,265 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:37:54,267 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:37:54,269 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:37:54,272 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:37:54,272 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:37:54,274 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:37:54,275 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:37:54,275 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:37:54,276 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:37:54,278 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:37:54,281 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:37:54,282 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:37:54,284 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:37:54,285 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:37:54,286 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:37:54,286 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:37:54,286 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:37:54,287 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:37:54,289 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:37:54,290 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:37:54,291 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:37:54,297 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:37:54,299 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:37:54,301 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:37:54,302 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:37:54,302 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:37:54,309 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:37:54,310 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:37:54,311 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:37:54,311 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:37:54,312 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:37:54,313 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:37:54,314 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:37:54,316 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:37:54,317 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:37:54,318 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:37:54,318 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:37:54,320 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:37:54,322 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:37:54,324 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:37:54,326 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:37:56,837 - uvicorn.access - INFO - 127.0.0.1:5837 - "POST / HTTP/1.1" 200
+2024-06-19 21:37:56,843 - uvicorn.access - INFO - 127.0.0.1:5837 - "GET / HTTP/1.1" 200
+2024-06-19 21:38:09,016 - uvicorn.access - INFO - 127.0.0.1:5856 - "POST / HTTP/1.1" 200
+2024-06-19 21:38:09,022 - uvicorn.access - INFO - 127.0.0.1:5856 - "GET / HTTP/1.1" 200
+2024-06-19 21:38:18,325 - uvicorn.access - INFO - 127.0.0.1:5860 - "POST / HTTP/1.1" 200
+2024-06-19 21:38:18,331 - uvicorn.access - INFO - 127.0.0.1:5860 - "GET / HTTP/1.1" 200
+2024-06-19 21:38:27,493 - uvicorn.access - INFO - 127.0.0.1:5869 - "POST / HTTP/1.1" 200
+2024-06-19 21:38:27,503 - uvicorn.access - INFO - 127.0.0.1:5869 - "GET / HTTP/1.1" 200
+2024-06-19 21:39:28,541 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:39:28,544 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:39:28,544 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:39:28,545 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:39:28,546 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:39:28,548 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:39:28,550 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:39:28,786 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:39:28,787 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:39:28,788 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:39:28,789 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:39:28,791 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:39:28,792 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:39:28,793 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:39:28,794 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:39:28,794 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:39:28,795 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:39:28,796 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:39:28,800 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:39:28,801 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:39:28,802 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:39:28,804 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:39:28,805 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:39:28,805 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:39:28,805 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:39:28,806 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:39:28,808 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:39:28,809 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:39:28,810 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:39:28,818 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:39:28,819 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:39:28,820 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:39:28,821 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:39:28,821 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:39:28,830 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:39:28,831 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:39:28,831 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:39:28,831 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:39:28,832 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:39:28,833 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:39:28,834 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:39:28,836 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:39:28,836 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:39:28,837 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:39:28,838 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:39:28,840 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:39:28,842 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:39:28,844 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:39:28,845 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:39:31,271 - uvicorn.access - INFO - 127.0.0.1:5898 - "POST / HTTP/1.1" 200
+2024-06-19 21:39:31,278 - uvicorn.access - INFO - 127.0.0.1:5898 - "GET / HTTP/1.1" 200
+2024-06-19 21:39:59,047 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:39:59,048 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:39:59,048 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:39:59,049 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:39:59,050 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:39:59,051 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:39:59,053 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:39:59,195 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:39:59,198 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:39:59,202 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:39:59,204 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:39:59,208 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:39:59,208 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:39:59,216 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:39:59,217 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:39:59,217 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:39:59,218 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:39:59,220 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:39:59,224 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:39:59,225 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:39:59,227 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:39:59,234 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:39:59,237 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:39:59,237 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:39:59,238 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:39:59,242 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:39:59,252 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:39:59,252 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:39:59,254 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:39:59,267 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:39:59,268 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:39:59,269 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:39:59,270 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:39:59,270 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:39:59,289 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:39:59,290 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:39:59,290 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:39:59,290 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:39:59,292 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:39:59,293 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:39:59,295 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:39:59,297 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:39:59,298 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:39:59,299 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:39:59,300 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:39:59,302 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:39:59,303 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:39:59,304 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:39:59,305 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:40:00,572 - uvicorn.access - INFO - 127.0.0.1:5907 - "POST / HTTP/1.1" 200
+2024-06-19 21:40:00,580 - uvicorn.access - INFO - 127.0.0.1:5907 - "GET / HTTP/1.1" 200
+2024-06-19 21:40:14,628 - uvicorn.access - INFO - 127.0.0.1:5906 - "POST / HTTP/1.1" 200
+2024-06-19 21:40:14,632 - uvicorn.access - INFO - 127.0.0.1:5906 - "GET / HTTP/1.1" 200
+2024-06-19 21:40:43,245 - uvicorn.access - INFO - 127.0.0.1:5919 - "POST / HTTP/1.1" 200
+2024-06-19 21:40:43,251 - uvicorn.access - INFO - 127.0.0.1:5919 - "GET / HTTP/1.1" 200
+2024-06-19 21:41:07,214 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:41:07,216 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:41:07,216 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:41:07,216 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:41:07,217 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:41:07,218 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:41:07,220 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:41:07,416 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:41:07,417 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:41:07,418 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:41:07,419 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:41:07,421 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:41:07,421 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:41:07,424 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:41:07,425 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:41:07,426 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:41:07,427 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:41:07,429 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:41:07,432 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:41:07,433 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:41:07,435 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:41:07,437 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:41:07,439 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:41:07,440 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:41:07,440 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:41:07,443 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:41:07,448 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:41:07,448 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:41:07,448 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:41:07,459 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:41:07,460 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:41:07,462 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:41:07,462 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:41:07,462 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:41:07,474 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:41:07,476 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:41:07,476 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:41:07,476 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:41:07,477 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:41:07,478 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:41:07,479 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:41:07,480 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:41:07,480 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:41:07,481 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:41:07,481 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:41:07,484 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:41:07,485 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:41:07,487 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:41:07,490 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:41:09,776 - uvicorn.access - INFO - 127.0.0.1:5932 - "POST / HTTP/1.1" 200
+2024-06-19 21:41:09,782 - uvicorn.access - INFO - 127.0.0.1:5932 - "GET / HTTP/1.1" 200
+2024-06-19 21:41:27,614 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:41:27,615 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:41:27,615 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:41:27,616 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:41:27,617 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:41:27,618 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:41:27,619 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:41:27,766 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:41:27,767 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:41:27,767 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:41:27,768 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:41:27,769 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:41:27,769 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:41:27,770 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:41:27,772 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:41:27,772 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:41:27,773 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:41:27,773 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:41:27,775 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:41:27,776 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:41:27,777 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:41:27,778 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:41:27,779 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:41:27,779 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:41:27,779 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:41:27,780 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:41:27,782 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:41:27,782 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:41:27,782 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:41:27,787 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:41:27,788 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:41:27,789 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:41:27,790 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:41:27,790 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:41:27,800 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:41:27,801 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:41:27,801 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:41:27,801 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:41:27,801 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:41:27,802 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:41:27,803 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:41:27,804 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:41:27,804 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:41:27,805 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:41:27,805 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:41:27,807 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:41:27,808 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:41:27,808 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:41:27,809 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:41:31,404 - uvicorn.access - INFO - 127.0.0.1:5937 - "POST / HTTP/1.1" 200
+2024-06-19 21:41:31,411 - uvicorn.access - INFO - 127.0.0.1:5937 - "GET / HTTP/1.1" 200
+2024-06-19 21:41:59,826 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:41:59,829 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:41:59,829 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:41:59,831 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:41:59,833 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:41:59,837 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:41:59,839 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:42:00,106 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:42:00,108 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:42:00,110 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:42:00,112 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:42:00,117 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:42:00,117 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:42:00,119 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:42:00,121 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:42:00,121 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:42:00,123 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:42:00,124 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:42:00,130 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:42:00,133 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:42:00,135 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:42:00,137 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:42:00,139 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:42:00,139 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:42:00,139 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:42:00,141 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:42:00,146 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:42:00,146 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:42:00,148 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:42:00,161 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:42:00,173 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:42:00,177 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:42:00,179 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:42:00,180 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:42:00,243 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:42:00,245 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:42:00,245 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:42:00,245 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:42:00,247 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:42:00,248 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:42:00,250 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:42:00,252 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:42:00,254 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:42:00,256 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:42:00,256 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:42:00,261 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:42:00,263 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:42:00,269 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:42:00,272 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:42:16,562 - uvicorn.access - INFO - 127.0.0.1:5954 - "POST / HTTP/1.1" 200
+2024-06-19 21:42:16,571 - uvicorn.access - INFO - 127.0.0.1:5954 - "GET / HTTP/1.1" 200
+2024-06-19 21:44:50,410 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:44:50,411 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:44:50,412 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:44:50,413 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:44:50,414 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:44:50,417 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:44:50,418 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:44:50,637 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:44:50,638 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:44:50,639 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:44:50,640 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:44:50,642 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:44:50,642 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:44:50,643 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:44:50,644 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:44:50,644 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:44:50,645 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:44:50,646 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:44:50,650 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:44:50,652 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:44:50,654 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:44:50,655 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:44:50,657 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:44:50,657 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:44:50,657 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:44:50,658 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:44:50,660 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:44:50,660 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:44:50,661 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:44:50,668 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:44:50,670 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:44:50,671 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:44:50,672 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:44:50,672 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:44:50,679 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:44:50,681 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:44:50,681 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:44:50,681 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:44:50,682 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:44:50,683 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:44:50,684 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:44:50,685 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:44:50,686 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:44:50,687 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:44:50,687 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:44:50,689 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:44:50,691 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:44:50,692 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:44:50,693 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:44:54,536 - uvicorn.access - INFO - 127.0.0.1:6001 - "OPTIONS / HTTP/1.1" 200
+2024-06-19 21:44:54,559 - uvicorn.access - INFO - 127.0.0.1:6001 - "POST / HTTP/1.1" 200
+2024-06-19 21:44:54,566 - uvicorn.access - INFO - 127.0.0.1:6001 - "GET / HTTP/1.1" 200
+2024-06-19 21:46:17,160 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:46:17,163 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:46:17,163 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:46:17,165 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:46:17,168 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:46:17,172 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:46:17,174 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:46:17,452 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:46:17,454 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:46:17,456 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:46:17,458 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:46:17,461 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:46:17,462 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:46:17,464 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:46:17,467 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:46:17,467 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:46:17,470 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:46:17,473 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:46:17,485 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:46:17,488 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:46:17,491 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:46:17,494 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:46:17,496 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:46:17,496 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:46:17,496 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:46:17,497 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:46:17,505 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:46:17,506 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:46:17,509 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:46:17,523 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:46:17,525 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:46:17,528 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:46:17,530 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:46:17,530 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:46:17,559 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:46:17,561 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:46:17,561 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:46:17,561 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:46:17,563 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:46:17,565 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:46:17,569 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:46:17,573 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:46:17,575 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:46:17,577 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:46:17,578 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:46:17,581 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:46:17,585 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:46:17,591 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:46:17,594 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:46:20,356 - uvicorn.access - INFO - 127.0.0.1:6019 - "POST / HTTP/1.1" 200
+2024-06-19 21:46:20,363 - uvicorn.access - INFO - 127.0.0.1:6019 - "GET / HTTP/1.1" 200
+2024-06-19 21:46:28,546 - uvicorn.access - INFO - 127.0.0.1:6018 - "POST / HTTP/1.1" 200
+2024-06-19 21:46:28,553 - uvicorn.access - INFO - 127.0.0.1:6018 - "GET / HTTP/1.1" 200
+2024-06-19 21:48:27,534 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:48:27,536 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:48:27,536 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:48:27,538 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:48:27,540 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:48:27,544 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:48:27,546 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:48:27,834 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:48:27,837 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:48:27,839 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:48:27,841 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:48:27,847 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:48:27,847 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:48:27,849 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:48:27,851 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:48:27,851 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:48:27,854 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:48:27,856 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:48:27,863 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:48:27,865 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:48:27,867 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:48:27,870 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:48:27,872 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:48:27,872 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:48:27,872 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:48:27,874 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:48:27,880 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:48:27,881 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:48:27,883 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:48:27,899 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:48:27,902 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:48:27,906 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:48:27,909 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:48:27,910 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:48:27,941 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:48:27,945 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:48:27,945 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:48:27,945 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:48:27,947 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:48:27,949 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:48:27,951 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:48:27,952 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:48:27,954 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:48:27,956 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:48:27,956 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:48:27,961 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:48:27,963 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:48:27,967 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:48:27,970 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:48:32,282 - uvicorn.access - INFO - 127.0.0.1:6055 - "POST / HTTP/1.1" 200
+2024-06-19 21:48:32,289 - uvicorn.access - INFO - 127.0.0.1:6055 - "GET / HTTP/1.1" 200
+2024-06-19 21:48:42,602 - uvicorn.access - INFO - 127.0.0.1:6061 - "POST / HTTP/1.1" 200
+2024-06-19 21:48:42,614 - uvicorn.access - INFO - 127.0.0.1:6061 - "GET / HTTP/1.1" 200
+2024-06-19 21:49:13,126 - uvicorn.access - INFO - 127.0.0.1:6067 - "POST / HTTP/1.1" 200
+2024-06-19 21:49:13,137 - uvicorn.access - INFO - 127.0.0.1:6067 - "GET / HTTP/1.1" 200
+2024-06-19 21:50:04,389 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:50:04,393 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:50:04,393 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:50:04,395 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:50:04,396 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:50:04,400 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:50:04,403 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:50:04,668 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:50:04,670 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:50:04,671 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:50:04,673 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:50:04,677 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:50:04,677 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:50:04,679 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:50:04,681 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:50:04,681 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:50:04,683 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:50:04,685 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:50:04,692 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:50:04,694 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:50:04,697 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:50:04,699 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:50:04,701 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:50:04,701 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:50:04,701 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:50:04,703 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:50:04,706 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:50:04,706 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:50:04,708 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:50:04,721 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:50:04,723 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:50:04,726 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:50:04,729 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:50:04,729 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:50:04,768 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:50:04,770 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:50:04,770 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:50:04,771 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:50:04,774 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:50:04,776 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:50:04,778 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:50:04,781 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:50:04,783 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:50:04,784 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:50:04,785 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:50:04,789 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:50:04,791 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:50:04,796 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:50:04,799 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:50:12,819 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:50:12,820 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:50:12,820 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:50:12,821 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:50:12,821 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:50:12,823 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:50:12,824 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:50:12,956 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:50:12,956 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:50:12,957 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:50:12,957 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:50:12,959 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:50:12,959 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:50:12,960 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:50:12,960 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:50:12,960 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:50:12,961 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:50:12,962 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:50:12,964 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:50:12,964 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:50:12,965 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:50:12,966 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:50:12,967 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:50:12,967 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:50:12,967 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:50:12,968 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:50:12,969 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:50:12,969 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:50:12,970 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:50:12,976 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:50:12,976 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:50:12,978 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:50:12,978 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:50:12,979 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:50:12,987 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:50:12,988 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:50:12,988 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:50:12,988 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:50:12,989 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:50:12,989 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:50:12,990 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:50:12,991 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:50:12,992 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:50:12,993 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:50:12,993 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:50:12,994 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:50:12,995 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:50:12,997 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:50:12,998 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:50:16,878 - uvicorn.access - INFO - 127.0.0.1:6092 - "POST / HTTP/1.1" 200
+2024-06-19 21:50:16,885 - uvicorn.access - INFO - 127.0.0.1:6092 - "GET / HTTP/1.1" 200
+2024-06-19 21:50:29,464 - uvicorn.access - INFO - 127.0.0.1:6096 - "POST / HTTP/1.1" 200
+2024-06-19 21:50:29,472 - uvicorn.access - INFO - 127.0.0.1:6096 - "GET / HTTP/1.1" 200
+2024-06-19 21:51:40,874 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:51:40,876 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:51:40,876 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:51:40,877 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:51:40,878 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:51:40,879 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:51:40,880 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:51:41,020 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:51:41,021 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:51:41,022 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:51:41,022 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:51:41,024 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:51:41,024 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:51:41,025 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:51:41,026 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:51:41,026 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:51:41,027 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:51:41,028 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:51:41,030 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:51:41,031 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:51:41,032 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:51:41,033 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:51:41,033 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:51:41,033 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:51:41,033 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:51:41,034 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:51:41,036 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:51:41,036 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:51:41,037 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:51:41,043 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:51:41,044 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:51:41,045 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:51:41,046 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:51:41,046 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:51:41,055 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:51:41,056 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:51:41,056 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:51:41,056 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:51:41,057 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:51:41,058 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:51:41,059 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:51:41,059 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:51:41,060 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:51:41,061 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:51:41,061 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:51:41,063 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:51:41,063 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:51:41,065 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:51:41,066 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:51:44,325 - uvicorn.access - INFO - 127.0.0.1:6106 - "POST / HTTP/1.1" 200
+2024-06-19 21:51:44,331 - uvicorn.access - INFO - 127.0.0.1:6106 - "GET / HTTP/1.1" 200
+2024-06-19 21:52:16,294 - uvicorn.access - INFO - 127.0.0.1:6116 - "POST / HTTP/1.1" 200
+2024-06-19 21:52:16,302 - uvicorn.access - INFO - 127.0.0.1:6116 - "GET / HTTP/1.1" 200
+2024-06-19 21:52:53,251 - uvicorn.access - INFO - 127.0.0.1:6120 - "POST / HTTP/1.1" 200
+2024-06-19 21:52:53,257 - uvicorn.access - INFO - 127.0.0.1:6120 - "GET / HTTP/1.1" 200
+2024-06-19 21:53:36,898 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:53:36,899 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:53:36,899 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:53:36,901 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:53:36,902 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:53:36,903 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:53:36,904 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:53:37,035 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:53:37,035 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:53:37,036 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:53:37,037 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:53:37,039 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:53:37,039 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:53:37,039 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:53:37,040 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:53:37,040 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:53:37,041 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:53:37,042 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:53:37,044 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:53:37,044 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:53:37,045 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:53:37,046 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:53:37,047 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:53:37,047 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:53:37,047 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:53:37,048 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:53:37,049 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:53:37,049 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:53:37,050 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:53:37,058 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:53:37,059 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:53:37,060 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:53:37,060 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:53:37,060 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:53:37,067 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:53:37,067 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:53:37,067 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:53:37,067 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:53:37,067 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:53:37,069 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:53:37,069 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:53:37,070 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:53:37,072 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:53:37,072 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:53:37,072 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:53:37,075 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:53:37,076 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:53:37,078 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:53:37,079 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:53:38,216 - uvicorn.access - INFO - 127.0.0.1:6128 - "POST / HTTP/1.1" 200
+2024-06-19 21:53:38,226 - uvicorn.access - INFO - 127.0.0.1:6128 - "GET / HTTP/1.1" 200
+2024-06-19 21:53:55,529 - uvicorn.access - INFO - 127.0.0.1:6134 - "POST / HTTP/1.1" 200
+2024-06-19 21:53:55,534 - uvicorn.access - INFO - 127.0.0.1:6134 - "GET / HTTP/1.1" 200
+2024-06-19 21:54:43,165 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 21:54:43,168 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 21:54:43,169 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 21:54:43,171 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 21:54:43,173 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 21:54:43,176 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 21:54:43,178 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 21:54:43,464 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 21:54:43,467 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 21:54:43,469 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 21:54:43,471 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 21:54:43,475 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 21:54:43,475 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 21:54:43,477 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 21:54:43,479 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 21:54:43,479 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 21:54:43,480 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 21:54:43,483 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 21:54:43,488 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 21:54:43,490 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 21:54:43,493 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 21:54:43,495 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 21:54:43,497 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 21:54:43,497 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 21:54:43,497 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 21:54:43,499 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 21:54:43,503 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 21:54:43,503 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 21:54:43,505 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 21:54:43,519 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 21:54:43,521 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 21:54:43,525 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 21:54:43,526 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 21:54:43,527 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 21:54:43,559 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 21:54:43,563 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 21:54:43,563 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 21:54:43,563 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 21:54:43,566 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 21:54:43,568 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 21:54:43,570 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 21:54:43,572 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 21:54:43,574 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 21:54:43,577 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 21:54:43,578 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 21:54:43,584 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 21:54:43,587 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 21:54:43,596 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 21:54:43,600 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 21:54:46,289 - uvicorn.access - INFO - 127.0.0.1:6149 - "POST / HTTP/1.1" 200
+2024-06-19 21:54:46,295 - uvicorn.access - INFO - 127.0.0.1:6149 - "GET / HTTP/1.1" 200
+2024-06-19 22:00:26,350 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 22:00:26,353 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 22:00:26,353 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 22:00:26,354 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 22:00:26,356 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 22:00:26,358 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 22:00:26,359 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 22:00:26,597 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 22:00:26,598 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 22:00:26,599 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 22:00:26,600 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 22:00:26,603 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 22:00:26,603 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 22:00:26,604 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 22:00:26,605 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 22:00:26,605 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 22:00:26,606 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 22:00:26,608 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 22:00:26,611 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 22:00:26,612 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 22:00:26,614 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 22:00:26,615 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 22:00:26,616 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 22:00:26,616 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 22:00:26,616 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 22:00:26,617 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 22:00:26,619 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 22:00:26,620 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 22:00:26,621 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 22:00:26,628 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 22:00:26,629 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 22:00:26,631 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 22:00:26,632 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 22:00:26,632 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 22:00:26,640 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 22:00:26,641 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 22:00:26,641 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 22:00:26,641 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 22:00:26,643 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 22:00:26,644 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 22:00:26,645 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 22:00:26,646 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 22:00:26,647 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 22:00:26,648 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 22:00:26,648 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 22:00:26,652 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 22:00:26,653 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 22:00:26,656 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 22:00:26,658 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 22:00:30,176 - uvicorn.access - INFO - 127.0.0.1:6349 - "OPTIONS / HTTP/1.1" 200
+2024-06-19 22:00:30,199 - uvicorn.access - INFO - 127.0.0.1:6349 - "POST / HTTP/1.1" 200
+2024-06-19 22:00:30,203 - uvicorn.access - INFO - 127.0.0.1:6349 - "GET / HTTP/1.1" 200
+2024-06-19 22:01:17,134 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 22:01:17,137 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 22:01:17,137 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 22:01:17,137 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 22:01:17,138 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 22:01:17,140 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 22:01:17,141 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 22:01:17,276 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 22:01:17,277 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 22:01:17,278 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 22:01:17,280 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 22:01:17,282 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 22:01:17,282 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 22:01:17,284 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 22:01:17,285 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 22:01:17,285 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 22:01:17,286 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 22:01:17,286 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 22:01:17,288 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 22:01:17,289 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 22:01:17,290 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 22:01:17,291 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 22:01:17,292 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 22:01:17,292 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 22:01:17,292 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 22:01:17,293 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 22:01:17,294 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 22:01:17,294 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 22:01:17,295 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 22:01:17,300 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 22:01:17,301 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 22:01:17,302 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 22:01:17,303 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 22:01:17,303 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 22:01:17,310 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 22:01:17,311 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 22:01:17,311 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 22:01:17,311 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 22:01:17,312 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 22:01:17,313 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 22:01:17,314 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 22:01:17,315 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 22:01:17,316 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 22:01:17,317 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 22:01:17,317 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 22:01:17,319 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 22:01:17,320 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 22:01:17,322 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 22:01:17,323 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 22:01:24,024 - uvicorn.access - INFO - 127.0.0.1:6380 - "POST / HTTP/1.1" 200
+2024-06-19 22:01:24,037 - uvicorn.access - INFO - 127.0.0.1:6380 - "GET / HTTP/1.1" 200
+2024-06-19 22:02:11,908 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 22:02:11,910 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 22:02:11,910 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 22:02:11,911 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 22:02:11,912 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 22:02:11,913 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 22:02:11,914 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 22:02:12,044 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 22:02:12,045 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 22:02:12,046 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 22:02:12,046 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 22:02:12,048 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 22:02:12,048 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 22:02:12,049 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 22:02:12,050 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 22:02:12,050 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 22:02:12,051 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 22:02:12,051 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 22:02:12,053 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 22:02:12,054 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 22:02:12,055 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 22:02:12,056 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 22:02:12,057 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 22:02:12,057 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 22:02:12,057 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 22:02:12,057 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 22:02:12,058 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 22:02:12,058 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 22:02:12,058 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 22:02:12,064 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 22:02:12,064 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 22:02:12,065 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 22:02:12,067 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 22:02:12,067 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 22:02:12,072 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 22:02:12,073 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 22:02:12,073 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 22:02:12,073 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 22:02:12,074 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 22:02:12,075 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 22:02:12,075 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 22:02:12,076 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 22:02:12,077 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 22:02:12,077 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 22:02:12,077 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 22:02:12,079 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 22:02:12,080 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 22:02:12,082 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 22:02:12,083 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 22:02:21,441 - uvicorn.access - INFO - 127.0.0.1:6408 - "POST / HTTP/1.1" 200
+2024-06-19 22:02:21,453 - uvicorn.access - INFO - 127.0.0.1:6408 - "GET / HTTP/1.1" 200
+2024-06-19 22:06:04,145 - pystray._base - ERROR - An error occurred in the main loop
+Traceback (most recent call last):
+  File "C:\Users\x\AppData\Roaming\Python\Python38\site-packages\pystray\_win32.py", line 147, in _mainloop
+    r = win32.GetMessage(lpmsg, None, 0, 0)
+KeyboardInterrupt
+2024-06-19 22:06:07,112 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 22:06:07,115 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 22:06:07,115 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 22:06:07,116 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 22:06:07,118 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 22:06:07,120 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 22:06:07,121 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 22:06:07,351 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 22:06:07,353 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 22:06:07,354 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 22:06:07,354 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 22:06:07,357 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 22:06:07,357 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 22:06:07,358 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 22:06:07,359 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 22:06:07,359 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 22:06:07,360 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 22:06:07,361 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 22:06:07,364 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 22:06:07,365 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 22:06:07,366 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 22:06:07,367 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 22:06:07,368 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 22:06:07,368 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 22:06:07,368 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 22:06:07,369 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 22:06:07,372 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 22:06:07,372 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 22:06:07,373 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 22:06:07,379 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 22:06:07,380 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 22:06:07,382 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 22:06:07,383 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 22:06:07,383 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 22:06:07,390 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 22:06:07,391 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 22:06:07,391 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 22:06:07,392 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 22:06:07,393 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 22:06:07,394 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 22:06:07,395 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 22:06:07,396 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 22:06:07,397 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 22:06:07,398 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 22:06:07,398 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 22:06:07,401 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 22:06:07,402 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 22:06:07,404 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 22:06:07,406 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 22:06:08,734 - uvicorn.access - INFO - 127.0.0.1:6504 - "POST / HTTP/1.1" 200
+2024-06-19 22:06:08,741 - uvicorn.access - INFO - 127.0.0.1:6504 - "GET / HTTP/1.1" 200
+2024-06-19 22:09:15,577 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 22:09:15,582 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 22:09:15,582 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 22:09:15,583 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 22:09:15,584 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 22:09:15,585 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 22:09:15,586 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 22:09:15,729 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 22:09:15,730 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 22:09:15,731 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 22:09:15,732 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 22:09:15,734 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 22:09:15,734 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 22:09:15,734 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 22:09:15,735 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 22:09:15,735 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 22:09:15,736 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 22:09:15,736 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 22:09:15,738 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 22:09:15,739 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 22:09:15,740 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 22:09:15,741 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 22:09:15,742 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 22:09:15,742 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 22:09:15,742 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 22:09:15,742 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 22:09:15,744 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 22:09:15,744 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 22:09:15,744 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 22:09:15,749 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 22:09:15,750 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 22:09:15,751 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 22:09:15,752 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 22:09:15,752 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 22:09:15,759 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 22:09:15,760 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 22:09:15,761 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 22:09:15,761 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 22:09:15,761 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 22:09:15,763 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 22:09:15,764 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 22:09:15,765 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 22:09:15,766 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 22:09:15,766 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 22:09:15,767 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 22:09:15,767 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 22:09:15,768 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 22:09:15,769 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 22:09:15,771 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 22:09:26,398 - uvicorn.access - INFO - 127.0.0.1:6564 - "POST / HTTP/1.1" 200
+2024-06-19 22:09:26,404 - uvicorn.access - INFO - 127.0.0.1:6564 - "GET / HTTP/1.1" 200
+2024-06-19 22:09:58,012 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 22:09:58,016 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 22:09:58,016 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 22:09:58,017 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 22:09:58,018 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 22:09:58,020 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 22:09:58,022 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 22:09:58,262 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 22:09:58,263 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 22:09:58,264 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 22:09:58,265 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 22:09:58,267 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 22:09:58,267 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 22:09:58,268 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 22:09:58,269 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 22:09:58,269 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 22:09:58,271 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 22:09:58,272 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 22:09:58,275 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 22:09:58,276 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 22:09:58,277 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 22:09:58,278 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 22:09:58,279 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 22:09:58,280 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 22:09:58,280 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 22:09:58,281 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 22:09:58,283 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 22:09:58,283 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 22:09:58,284 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 22:09:58,293 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 22:09:58,294 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 22:09:58,295 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 22:09:58,296 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 22:09:58,296 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 22:09:58,307 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 22:09:58,308 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 22:09:58,308 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 22:09:58,308 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 22:09:58,309 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 22:09:58,310 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 22:09:58,311 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 22:09:58,312 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 22:09:58,313 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 22:09:58,314 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 22:09:58,314 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 22:09:58,317 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 22:09:58,318 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 22:09:58,319 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 22:09:58,320 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 22:10:28,701 - uvicorn.access - INFO - 127.0.0.1:6575 - "POST / HTTP/1.1" 200
+2024-06-19 22:10:28,709 - uvicorn.access - INFO - 127.0.0.1:6575 - "GET / HTTP/1.1" 200
+2024-06-19 22:10:37,960 - uvicorn.access - INFO - 127.0.0.1:6577 - "OPTIONS / HTTP/1.1" 200
+2024-06-19 22:10:37,977 - uvicorn.access - INFO - 127.0.0.1:6577 - "POST / HTTP/1.1" 200
+2024-06-19 22:10:37,985 - uvicorn.access - INFO - 127.0.0.1:6577 - "GET / HTTP/1.1" 200
+2024-06-19 22:10:50,128 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 22:10:50,131 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 22:10:50,131 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 22:10:50,132 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 22:10:50,133 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 22:10:50,135 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 22:10:50,137 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 22:10:50,304 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 22:10:50,306 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 22:10:50,308 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 22:10:50,310 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 22:10:50,315 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 22:10:50,315 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 22:10:50,318 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 22:10:50,320 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 22:10:50,321 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 22:10:50,323 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 22:10:50,324 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 22:10:50,328 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 22:10:50,330 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 22:10:50,332 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 22:10:50,333 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 22:10:50,335 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 22:10:50,335 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 22:10:50,335 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 22:10:50,337 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 22:10:50,340 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 22:10:50,340 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 22:10:50,342 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 22:10:50,352 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 22:10:50,353 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 22:10:50,356 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 22:10:50,357 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 22:10:50,358 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 22:10:50,380 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 22:10:50,382 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 22:10:50,382 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 22:10:50,382 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 22:10:50,384 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 22:10:50,386 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 22:10:50,387 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 22:10:50,389 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 22:10:50,390 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 22:10:50,392 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 22:10:50,392 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 22:10:50,394 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 22:10:50,396 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 22:10:50,400 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 22:10:50,404 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 22:10:53,808 - uvicorn.access - INFO - 127.0.0.1:6586 - "POST / HTTP/1.1" 200
+2024-06-19 22:10:53,818 - uvicorn.access - INFO - 127.0.0.1:6586 - "GET / HTTP/1.1" 200
+2024-06-19 22:12:02,990 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 22:12:02,991 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 22:12:02,991 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 22:12:02,992 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 22:12:02,993 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 22:12:02,994 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 22:12:02,994 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 22:12:03,123 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 22:12:03,124 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 22:12:03,124 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 22:12:03,125 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 22:12:03,126 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 22:12:03,127 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 22:12:03,127 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 22:12:03,128 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 22:12:03,128 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 22:12:03,129 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 22:12:03,130 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 22:12:03,132 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 22:12:03,133 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 22:12:03,134 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 22:12:03,136 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 22:12:03,137 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 22:12:03,137 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 22:12:03,137 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 22:12:03,138 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 22:12:03,139 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 22:12:03,139 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 22:12:03,140 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 22:12:03,145 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 22:12:03,146 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 22:12:03,147 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 22:12:03,148 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 22:12:03,148 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 22:12:03,157 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 22:12:03,158 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 22:12:03,158 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 22:12:03,158 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 22:12:03,158 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 22:12:03,159 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 22:12:03,160 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 22:12:03,161 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 22:12:03,162 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 22:12:03,163 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 22:12:03,163 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 22:12:03,165 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 22:12:03,166 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 22:12:03,168 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 22:12:03,169 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 22:13:08,168 - uvicorn.access - INFO - 127.0.0.1:6615 - "POST / HTTP/1.1" 200
+2024-06-19 22:13:08,176 - uvicorn.access - INFO - 127.0.0.1:6615 - "GET / HTTP/1.1" 200
+2024-06-19 22:13:24,020 - uvicorn.access - INFO - 127.0.0.1:6673 - "POST / HTTP/1.1" 200
+2024-06-19 22:13:24,028 - uvicorn.access - INFO - 127.0.0.1:6673 - "GET / HTTP/1.1" 200
+2024-06-19 22:13:34,165 - uvicorn.access - INFO - 127.0.0.1:6681 - "POST / HTTP/1.1" 200
+2024-06-19 22:13:34,170 - uvicorn.access - INFO - 127.0.0.1:6681 - "GET / HTTP/1.1" 200
+2024-06-19 22:13:59,058 - uvicorn.access - INFO - 127.0.0.1:6690 - "POST / HTTP/1.1" 200
+2024-06-19 22:13:59,065 - uvicorn.access - INFO - 127.0.0.1:6690 - "GET / HTTP/1.1" 200
+2024-06-19 22:14:41,708 - uvicorn.access - INFO - 127.0.0.1:6699 - "POST / HTTP/1.1" 200
+2024-06-19 22:14:41,715 - uvicorn.access - INFO - 127.0.0.1:6699 - "GET / HTTP/1.1" 200
+2024-06-19 22:15:03,435 - uvicorn.access - INFO - 127.0.0.1:6705 - "POST / HTTP/1.1" 200
+2024-06-19 22:15:03,442 - uvicorn.access - INFO - 127.0.0.1:6705 - "GET / HTTP/1.1" 200
+2024-06-19 22:15:16,221 - uvicorn.access - INFO - 127.0.0.1:6709 - "POST / HTTP/1.1" 200
+2024-06-19 22:15:16,227 - uvicorn.access - INFO - 127.0.0.1:6709 - "GET / HTTP/1.1" 200
+2024-06-19 22:16:24,798 - uvicorn.access - INFO - 127.0.0.1:6719 - "POST / HTTP/1.1" 200
+2024-06-19 22:16:24,804 - uvicorn.access - INFO - 127.0.0.1:6719 - "GET / HTTP/1.1" 200
+2024-06-19 22:16:54,680 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 22:16:54,682 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 22:16:54,682 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 22:16:54,683 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 22:16:54,684 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 22:16:54,685 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 22:16:54,686 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 22:16:54,830 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 22:16:54,831 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 22:16:54,832 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 22:16:54,832 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 22:16:54,834 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 22:16:54,834 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 22:16:54,834 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 22:16:54,835 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 22:16:54,835 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 22:16:54,836 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 22:16:54,836 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 22:16:54,839 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 22:16:54,839 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 22:16:54,840 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 22:16:54,841 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 22:16:54,842 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 22:16:54,842 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 22:16:54,842 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 22:16:54,842 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 22:16:54,844 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 22:16:54,844 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 22:16:54,845 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 22:16:54,849 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 22:16:54,850 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 22:16:54,851 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 22:16:54,852 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 22:16:54,852 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 22:16:54,859 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 22:16:54,860 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 22:16:54,860 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 22:16:54,860 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 22:16:54,860 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 22:16:54,861 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 22:16:54,862 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 22:16:54,862 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 22:16:54,863 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 22:16:54,864 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 22:16:54,864 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 22:16:54,865 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 22:16:54,866 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 22:16:54,867 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 22:16:54,868 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 22:16:56,876 - uvicorn.access - INFO - 127.0.0.1:6728 - "POST / HTTP/1.1" 422
+2024-06-19 22:17:02,603 - uvicorn.access - INFO - 127.0.0.1:6729 - "POST / HTTP/1.1" 422
+2024-06-19 22:17:12,388 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 22:17:12,389 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 22:17:12,389 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 22:17:12,390 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 22:17:12,391 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 22:17:12,392 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 22:17:12,392 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 22:17:12,518 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 22:17:12,519 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 22:17:12,519 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 22:17:12,520 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 22:17:12,521 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 22:17:12,521 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 22:17:12,522 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 22:17:12,523 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 22:17:12,523 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 22:17:12,524 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 22:17:12,524 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 22:17:12,526 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 22:17:12,527 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 22:17:12,528 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 22:17:12,528 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 22:17:12,529 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 22:17:12,529 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 22:17:12,529 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 22:17:12,530 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 22:17:12,531 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 22:17:12,531 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 22:17:12,532 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 22:17:12,536 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 22:17:12,537 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 22:17:12,538 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 22:17:12,539 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 22:17:12,539 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 22:17:12,545 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 22:17:12,546 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 22:17:12,546 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 22:17:12,546 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 22:17:12,547 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 22:17:12,547 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 22:17:12,548 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 22:17:12,548 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 22:17:12,549 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 22:17:12,550 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 22:17:12,550 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 22:17:12,551 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 22:17:12,552 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 22:17:12,553 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 22:17:12,554 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 22:17:14,802 - uvicorn.access - INFO - 127.0.0.1:6733 - "POST / HTTP/1.1" 422
+2024-06-19 22:17:40,841 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 22:17:40,843 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 22:17:40,843 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 22:17:40,844 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 22:17:40,845 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 22:17:40,846 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 22:17:40,847 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 22:17:41,068 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 22:17:41,069 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 22:17:41,070 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 22:17:41,071 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 22:17:41,073 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 22:17:41,073 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 22:17:41,074 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 22:17:41,075 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 22:17:41,075 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 22:17:41,076 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 22:17:41,077 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 22:17:41,080 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 22:17:41,081 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 22:17:41,082 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 22:17:41,083 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 22:17:41,084 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 22:17:41,084 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 22:17:41,084 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 22:17:41,085 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 22:17:41,087 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 22:17:41,087 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 22:17:41,088 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 22:17:41,095 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 22:17:41,096 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 22:17:41,097 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 22:17:41,098 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 22:17:41,098 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 22:17:41,105 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 22:17:41,106 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 22:17:41,106 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 22:17:41,106 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 22:17:41,107 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 22:17:41,108 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 22:17:41,109 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 22:17:41,110 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 22:17:41,111 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 22:17:41,112 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 22:17:41,112 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 22:17:41,115 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 22:17:41,116 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 22:17:41,117 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 22:17:41,118 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 22:17:53,350 - uvicorn.access - INFO - 127.0.0.1:6740 - "POST / HTTP/1.1" 422
+2024-06-19 22:18:12,900 - uvicorn.access - INFO - 127.0.0.1:6752 - "POST / HTTP/1.1" 422
+2024-06-19 22:19:26,583 - uvicorn.access - INFO - 127.0.0.1:6795 - "POST / HTTP/1.1" 422
+2024-06-19 22:20:15,212 - uvicorn.access - INFO - 127.0.0.1:6834 - "POST / HTTP/1.1" 422
+2024-06-19 22:21:04,732 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2024-06-19 22:21:04,733 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2024-06-19 22:21:04,733 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2024-06-19 22:21:04,734 - PIL.Image - DEBUG - Importing CurImagePlugin
+2024-06-19 22:21:04,734 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2024-06-19 22:21:04,735 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2024-06-19 22:21:04,736 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2024-06-19 22:21:04,900 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2024-06-19 22:21:04,901 - PIL.Image - DEBUG - Importing FitsStubImagePlugin
+2024-06-19 22:21:04,901 - PIL.Image - DEBUG - Importing FliImagePlugin
+2024-06-19 22:21:04,902 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2024-06-19 22:21:04,903 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2024-06-19 22:21:04,903 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2024-06-19 22:21:04,904 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2024-06-19 22:21:04,905 - PIL.Image - DEBUG - Importing GifImagePlugin
+2024-06-19 22:21:04,905 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2024-06-19 22:21:04,906 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2024-06-19 22:21:04,906 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2024-06-19 22:21:04,908 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2024-06-19 22:21:04,909 - PIL.Image - DEBUG - Importing ImImagePlugin
+2024-06-19 22:21:04,910 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2024-06-19 22:21:04,911 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2024-06-19 22:21:04,911 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2024-06-19 22:21:04,911 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2024-06-19 22:21:04,912 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2024-06-19 22:21:04,912 - PIL.Image - DEBUG - Importing MicImagePlugin
+2024-06-19 22:21:04,913 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2024-06-19 22:21:04,913 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2024-06-19 22:21:04,914 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2024-06-19 22:21:04,919 - PIL.Image - DEBUG - Importing MspImagePlugin
+2024-06-19 22:21:04,920 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2024-06-19 22:21:04,921 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2024-06-19 22:21:04,922 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2024-06-19 22:21:04,922 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2024-06-19 22:21:04,930 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2024-06-19 22:21:04,930 - PIL.Image - DEBUG - Importing PngImagePlugin
+2024-06-19 22:21:04,930 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2024-06-19 22:21:04,930 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2024-06-19 22:21:04,930 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2024-06-19 22:21:04,931 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2024-06-19 22:21:04,932 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2024-06-19 22:21:04,932 - PIL.Image - DEBUG - Importing SunImagePlugin
+2024-06-19 22:21:04,933 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2024-06-19 22:21:04,934 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2024-06-19 22:21:04,934 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2024-06-19 22:21:04,935 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2024-06-19 22:21:04,936 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2024-06-19 22:21:04,937 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2024-06-19 22:21:04,938 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2024-06-19 22:21:06,674 - uvicorn.access - INFO - 127.0.0.1:6864 - "OPTIONS / HTTP/1.1" 200
+2024-06-19 22:21:06,701 - uvicorn.access - INFO - 127.0.0.1:6864 - "POST / HTTP/1.1" 200
+2024-06-19 22:21:06,706 - uvicorn.access - INFO - 127.0.0.1:6864 - "GET / HTTP/1.1" 200
+2024-06-19 22:21:45,595 - uvicorn.access - INFO - 127.0.0.1:6865 - "POST / HTTP/1.1" 200
+2024-06-19 22:21:45,602 - uvicorn.access - INFO - 127.0.0.1:6865 - "GET / HTTP/1.1" 200

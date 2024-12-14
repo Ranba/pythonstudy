@@ -1,0 +1,20 @@
+## 首先你本地要正常安装了python
+开发环境是3.8
+
+## 安装依赖
+
+当前目录下 requirements.txt 记录了当前插件的依赖信息，执行以下程序即可安装。
+
+pip install -r requirements.txt
+
+依赖安装好后 就可以双击 App.pyw 直接运行了
+
+## 打包命令
+
+注意: 需要将pytkUI的字体文件复制到生成的文件夹中
+
+pyinstaller -wF .\App.pyw -n "tkinter布局助手插件"
+
+如果执行完没有报错，就打包成功了。找到dist目录下的程序执行即可。
+
+更多信息详见： https://www.pytk.net/tkinter-helper-preview.html
