@@ -135,3 +135,12 @@ dmypy.json
 # DB File
 *.db
 
+# artifact
+*.mp4
+*.vtt
+*.csv
+*.txt
+*.zip
+
+# config
+*.json

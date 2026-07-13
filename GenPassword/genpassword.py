@@ -12,19 +12,30 @@ print("请输入生成密码长度，最少8位：")
 length = int(input())
 
 def GenPassm1(length):
-    return ''.join(random.sample(string.ascii_letters,length))
+    if length < 2:  # 确保长度足够
+        raise ValueError("密码长度必须至少为2")
+    first_char = random.choice(string.ascii_letters)  # 确保以字母开头
+    remaining_chars = ''.join(random.choices(string.ascii_letters + string.digits, k=length - 1))
+    return first_char + remaining_chars
 
 def GenPassm2(length):
-    return ''.join(random.sample(string.ascii_letters+string.punctuation,length))
+    if length < 2:  # 确保长度足够
+        raise ValueError("密码长度必须至少为2")
+    first_char = random.choice(string.ascii_letters)  # 确保以字母开头
+    remaining_chars = ''.join(random.choices(string.ascii_letters + string.digits + string.punctuation, k=length - 1))
+    return first_char + remaining_chars
 
 if __name__ == "__main__":
     if length < 8:
-        len = 8
-    else:
-        len = length
+        length = 8  # 确保密码长度至少为8
 
     if m == 1:
-        print(GenPassm1(len))
+        for _ in range(5):  # 生成5个密码
+            print(GenPassm1(length))
 
-    if m == 2:
-        print(GenPassm2(len))
+    elif m == 2:
+        for _ in range(5):  # 生成5个密码
+            print(GenPassm2(length))
+
+    else:
+        print("无效的模式选择！")
