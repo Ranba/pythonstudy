@@ -141,6 +141,7 @@ dmypy.json
 *.csv
 *.txt
 *.zip
+*.srt
 
 # config
 *.json
